@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Kabaso</h1>
 <h3 align="center">A Web developer & software dev enthusiast from Lusaka,Zambia</h3>
 
-- 🌱 I’m currently learning **Javascript**, **Java** & **PHP**.S
+- 🌱 I’m currently learning **Javascript**, **Java** & **PHP**.
 
 - 📫 How to reach me **Dennis.Kabaso03@gmail.com**
 
