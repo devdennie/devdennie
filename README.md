@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dennis Kabaso</h1>
 <h3 align="center">A Web developer & software dev enthusiast from Lusaka,Zambia</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript**, **Java** & **PHP**.S
 
 - 📫 How to reach me **Dennis.Kabaso03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/heis.dennie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heis.dennie" height="30" width="40" /></a>
+<blink><a href="https://instagram.com/heis.dennie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heis.dennie" height="30" width="40" /></a></blink>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
